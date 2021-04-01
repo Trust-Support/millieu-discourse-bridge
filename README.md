@@ -1,3 +1,3 @@
-# 🌳 Milieu (discourse bridge)
+# 🌳 Millieu (discourse bridge)
 
-Milieu is an customisable open-source interface that enables users to turn conferences, online communities or group chats into explorable social worlds.
+Millieu is an customisable open-source interface that enables users to turn conferences, online communities or group chats into explorable social worlds.
